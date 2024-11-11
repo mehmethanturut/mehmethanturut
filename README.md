@@ -4,7 +4,8 @@ I'm a Third-year Electrical and Electronics Engineering student passionate about
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehmethanturut&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-six-omega-68.vercel.app/api?username=mehmethanturut&show_icons=true&theme=radical)
+
 
 
 ## 🛠️ Skills
