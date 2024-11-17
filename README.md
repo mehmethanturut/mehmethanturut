@@ -20,7 +20,6 @@ I'm a Third-year Electrical and Electronics Engineering student passionate about
 ![Proteus](https://img.shields.io/badge/Proteus-blue?logo=https://imgur.com/a/aC8BcPt)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000?&logo=Visual%20Studio)
-![CMake](https://img.shields.io/badge/-CMake-000?&logo=CMake)
 
 
 
